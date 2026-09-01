@@ -1,6 +1,7 @@
-<H3>ENTER YOUR NAME : KIRUTHIKA N</H3>
-<H3>ENTER YOUR REGISTER NO : 212224230127</H3>
 <H3>EX. NO.3</H3>
+<H3> NAME : KIRUTHIKA N</H3>
+<H3>REGISTER NO : 212224230127</H3>
+
 <H3>DATE: 01.09.2026</H3>
 <H2 aligh = center> Implementation of MLP for a non-linearly separable data</H2>
 <h3>Aim:</h3>
